@@ -1,0 +1,12 @@
+{
+    "db_address": "127.0.0.1:3306",
+    "db_user": "user",
+    "db_password": "password",
+    "db_name": "my_database",
+    "s3_bucket": "test",
+    "s3_key": "test",
+    "s3_secret": "test",
+    "s3_session": "",
+    "s3_endpoint": "http://127.0.0.1:9000",
+    "temp_file_name": "/tmp/tmpfile.parquet"
+}
